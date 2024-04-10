@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/React-master/static/js/main.bd137203.chunk.js",
-    "main.js.map": "/React-master/static/js/main.bd137203.chunk.js.map",
-    "runtime-main.js": "/React-master/static/js/runtime-main.9aabab8b.js",
-    "runtime-main.js.map": "/React-master/static/js/runtime-main.9aabab8b.js.map",
-    "static/js/2.f7faffeb.chunk.js": "/React-master/static/js/2.f7faffeb.chunk.js",
-    "static/js/2.f7faffeb.chunk.js.map": "/React-master/static/js/2.f7faffeb.chunk.js.map",
-    "index.html": "/React-master/index.html",
-    "static/js/2.f7faffeb.chunk.js.LICENSE.txt": "/React-master/static/js/2.f7faffeb.chunk.js.LICENSE.txt"
+    "main.js": "/React-master/jehwan/static/js/main.bd137203.chunk.js",
+    "main.js.map": "/React-master/jehwan/static/js/main.bd137203.chunk.js.map",
+    "runtime-main.js": "/React-master/jehwan/static/js/runtime-main.9687ff50.js",
+    "runtime-main.js.map": "/React-master/jehwan/static/js/runtime-main.9687ff50.js.map",
+    "static/js/2.53298273.chunk.js": "/React-master/jehwan/static/js/2.53298273.chunk.js",
+    "static/js/2.53298273.chunk.js.map": "/React-master/jehwan/static/js/2.53298273.chunk.js.map",
+    "index.html": "/React-master/jehwan/index.html",
+    "static/js/2.53298273.chunk.js.LICENSE.txt": "/React-master/jehwan/static/js/2.53298273.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9aabab8b.js",
-    "static/js/2.f7faffeb.chunk.js",
+    "static/js/runtime-main.9687ff50.js",
+    "static/js/2.53298273.chunk.js",
     "static/js/main.bd137203.chunk.js"
   ]
 }
