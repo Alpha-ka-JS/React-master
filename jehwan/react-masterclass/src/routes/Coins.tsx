@@ -50,7 +50,7 @@ const Img = styled.img`
   height: 35px;
   margin-right: 10px;
 `;
-interface CoinInterface {
+interface ICoin {
   id: string;
   name: string;
   symbol: string;
